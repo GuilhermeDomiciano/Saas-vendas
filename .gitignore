@@ -1,0 +1,11 @@
+# Docker
+pgdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.claude
+
+.env 
+node_modules/
